@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    background-color: #003B95;
+}
+
+header a img {
+    float: left;
+    width: 130px;
+}
+
+
+main {
+    clear: both;
+    display: flex;
+}
+
+
+h1 {
+    text-align: center;
+    color: aliceblue;
+}
+div {
+    margin-left: 250px;
+    margin-top: 130px;
+
+}
+
+.ask {
+    margin-left: 300px;
+    border-radius: 15px;
+    padding-top: 120px ;
+    display: inline-block;
+    background-color: rgb(218, 219, 219);
+    width: 250px;
+    height: 230px;
+}
+
+.pp {
+    margin-left: 30px;
+}
+
+#botao {
+    margin-top: 20px;
+    margin-left: 80px;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.respostas {
+    background-color: rgb(218, 219, 219);
+    width: 250px;
+    border-radius: 15px;    
+}
+
+.respostas img {
+    margin-left: 50px;
+}
+
+#result {
+   height: 30px;
+   margin-left: 40px;
+}
+
